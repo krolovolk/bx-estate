@@ -12,6 +12,8 @@ local/
   assets/
     img/
       plans/
+        flats/
+        floors/
     inc/
       files: text_namescript.php  - для подключения текстовых блоков
       files: block_namescript.php  - для подклчюения статичных "самописных псевдокомпонент"
